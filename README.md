@@ -13,5 +13,6 @@ Python project explaining functionr
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	f) currying , partial functions ,closures , lazy and strict in functional programming
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	g) typing in python (for function arguments and return types)
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	h) default vs typing in python
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	i) generators and decorators in python
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	i) generators and list comprehension in python
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	j) dunder methods in python
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	k) decorators in python
