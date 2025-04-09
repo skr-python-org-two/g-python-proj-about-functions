@@ -8,6 +8,8 @@
 """
     Syntax :- 
     newlist  = [expression for item in iterable if condition == True]
+    
+    Link:- https://www.w3schools.com/python/python_lists_comprehension.asp
 """
 
 lst = [34 , 667 , 89 , 90 , 64 , 3 , 56]
